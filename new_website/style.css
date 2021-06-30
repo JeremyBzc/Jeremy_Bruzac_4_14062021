@@ -776,7 +776,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #000000!important;
+    color: #3C3836!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -808,6 +808,11 @@ h4 {
     font-style: italic;
     font-weight: bold;
     font-size: 2rem;
+}
+.citation-source {
+    color: black;
+    font-size: 1.3rem;
+    font-weight: 700;
 }
 .overture {
     color: black
