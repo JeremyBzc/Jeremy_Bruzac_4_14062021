@@ -817,6 +817,9 @@ h4 {
 .overture {
     color: black
 }
+#bloc-7 .col-sm-6 {
+    width: 100%;
+}
 
 .bg-banniere {
     background-image: url("img/la-chouette-agence-banniere.jpg");
